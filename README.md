@@ -7,4 +7,6 @@
 3º O link do COLAB da YOLO apresentou alguns erros e por esse motivo decidi refazer os passos em outro colab
 
 # Arquivos
-Estou deixando o arquivo de peso e das imagens e rotulos. 
+Estou deixando o arquivo imagens e rotulos.  
+O arquivo de pesos vou deixar compartilhado pelo drive:
+https://drive.google.com/file/d/1otmtXZVbrfjldDyKaW7blUejfgXaVgje/view?usp=drive_link
